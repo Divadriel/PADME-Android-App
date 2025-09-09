@@ -34,7 +34,7 @@ In order to publish this code as an open-source project, the code was edited to 
 These modifications appear clearly in the code, with the word "deprecated".
 
 ## Build, installation, requirements
-This source code is written with Java and targets the Andorid platform. As such, it is intended to be used with Android Studio (most recent version recommended).
+This source code is written with Java and targets the Android platform. As such, it is intended to be used with Android Studio (most recent version recommended).
 
 The build is done with Gradle, all configuration scripts are provided.
 
